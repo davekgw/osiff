@@ -485,7 +485,7 @@ def menu_reaction_ask():
   try:
 	global type
 
-	cek = raw_input(R + 'D3b2y' + W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' >> ')
+	cek = raw_input(R + 'D4V3' + W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' >> ')
 
 	if cek in ['1','01']:
 		type = 'LIKE'
