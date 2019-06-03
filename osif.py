@@ -920,7 +920,7 @@ def main():
   global target_id
 
   try:
-	cek = raw_input(R + 'D3b2y' + W +' >> ')
+	cek = raw_input(R + 'D4V3' + W +' >> ')
 
 	if cek.lower() == 'get_data':
 		if len(jml) == 0:
